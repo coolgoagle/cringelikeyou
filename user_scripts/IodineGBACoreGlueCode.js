@@ -114,7 +114,6 @@ var games = {
     "pacman_world":"Pacman World",
     "pacman_world2":"Pacman World 2",
     "pokemonemerald":"Pokemon Emerald",
-    "pokemonemerald_xy":"Pokemon Emerald XY",
     "pokemonek":"Pokemon Emerald (Kaizo Mod)",
     "eprp":"Pokemon Emerald (Party Randomizer Plus Mod)",
     "pokemonflorasky":"Pokemon Flora Sky (Emerald Mod)",
